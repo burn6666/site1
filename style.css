@@ -1,0 +1,77 @@
+body{
+    background-color: black;
+}
+.button1{
+    width: 100px;
+    height: 80px;
+    flex-shrink: 0;
+    object-fit: cover;
+    top: 10px;
+
+}
+.nav{
+
+}
+.nav-button1{
+width: 150px;
+height: 48px;
+color: #FFF;
+font-family: Nico Moji;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+position: absolute;
+left: 475px;
+top: 30px;
+
+}
+.nav-button2{
+width: 150px;
+height: 48px;
+color: #FFF;
+font-family: Nico Moji;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+position: absolute;
+top: 30px;
+left: 600px;
+}
+.nav-button3{
+width: 150px;
+height: 48px;
+color: #FFF;
+font-family: Nico Moji;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+position: absolute;
+left: 750px;
+top: 30px;
+
+}
+.nav-button4{
+    width: 150px;
+height: 48px;
+color: #FFF;
+
+font-family: Nico Moji;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+position: absolute;
+top: 30px;
+left: 875px;
+}
+.logo {
+    width: 40px;
+    height: 40px;
+    flex-shrink: 0;
+    position: absolute;
+    left: 1470px;
+    top: 30px;
+}
