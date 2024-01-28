@@ -223,3 +223,84 @@ border: 0;
     left: 700px;
     z-index: 0;
 }
+.nav-button9{
+    width: 1410px;
+height: 139px;
+flex-shrink: 0;
+color: #FFF;
+
+text-align: center;
+font-family: "Nico Moji";
+font-size: 64px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.nav-button10{
+    width: 775px;
+height: 131px;
+flex-shrink: 0;
+color: #FFF;
+position: absolute;
+left: 330px;
+
+text-align: center;
+font-family: "Nico Moji";
+font-size: 64px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.nav-button11{
+    width: 512px;
+height: 112px;
+flex-shrink: 0;
+color: #FFF;
+position: absolute;
+top: 500px;
+left: 50px;
+
+text-align: center;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+-webkit-text-stroke-width: 1;
+-webkit-text-stroke-color: #000;
+
+font-family: "Nico Moji";
+font-size: 64px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;    
+}
+.nav-button12{
+    width: 386px;
+height: 112px;
+flex-shrink: 0;
+position: absolute;
+top: 500px;
+left: 475px;
+
+color: #FFF;
+
+text-align: center;
+font-family: "Nico Moji";
+font-size: 64px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.nav-button13{
+    width: 458px;
+height: 112px;
+flex-shrink: 0;
+color: #FFF;
+
+text-align: center;
+font-family: "Nico Moji";
+font-size: 64px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+position: absolute;
+top: 500px;
+left: 850px;
+}
